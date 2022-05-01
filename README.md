@@ -1,2 +1,3 @@
 # GOODFLYO_HEXO_COMMENTS
 GOODFLYO_GITHUB.IO的评论区管理仓库
+问题全部以issue的形式呈现
